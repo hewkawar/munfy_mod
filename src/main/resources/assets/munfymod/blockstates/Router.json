@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "munfymod:block/router"
+    },
+    "facing=south": {
+      "model": "munfymod:block/router",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "munfymod:block/router",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "munfymod:block/router",
+      "y": 90
+    }
+  }
+}
