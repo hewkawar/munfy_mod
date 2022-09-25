@@ -30,4 +30,7 @@ bin/
 
 # fabric
 
+# texture
+src/
+
 run/
