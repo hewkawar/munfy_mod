@@ -5,5 +5,14 @@
   "item.munfymod.x_baht": "10 Baht",
   "item.munfymod.xx_baht": "20 Baht",
   "item.munfymod.l_baht": "50 Baht",
-  "item.munfymod.c_baht": "100 Baht"
+  "item.munfymod.c_baht": "100 Baht",
+  "item.munfymod.e_wallet": "e-Wallet",
+
+  "item.munfymod.munfy": "Munfy",
+  "itemGroup.munfymod.money": "Money",
+  "itemGroup.munfymod.munfy": "Munfy",
+
+  "entity.minecraft.villager.moneymaster": "Foreign Exchange Officer",
+
+  "block.munfymod.router": "Router"
 }

@@ -28,9 +28,4 @@ bin/
 
 *.DS_Store
 
-# fabric
-
-# texture
-src/
-
 run/

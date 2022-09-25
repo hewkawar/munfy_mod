@@ -7,4 +7,4 @@ public class MunfyClient implements ClientModInitializer {
     public void onInitializeClient() {
 
     }
-}
+};

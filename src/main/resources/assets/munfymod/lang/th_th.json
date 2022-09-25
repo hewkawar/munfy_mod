@@ -5,5 +5,14 @@
   "item.munfymod.x_baht": "10 บาท",
   "item.munfymod.xx_baht": "20 บาท",
   "item.munfymod.l_baht": "50 บาท",
-  "item.munfymod.c_baht": "100 บาท"
+  "item.munfymod.c_baht": "100 บาท",
+  "item.munfymod.e_wallet": "อี-วอเล็ท",
+
+  "item.munfymod.munfy": "Munfy",
+  "itemGroup.munfymod.money": "เงิน",
+  "itemGroup.munfymod.munfy": "Munfy",
+
+  "entity.minecraft.villager.moneymaster": "เจ้าหน้าที่แลกเปลี่ยนเงินตราต่างประเทศ",
+
+  "block.munfymod.router": "เราเตอร์"
 }
