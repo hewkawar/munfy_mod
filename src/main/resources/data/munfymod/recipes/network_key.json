@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "RLR",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone_torch"
+        },
+        "L": {
+            "item": "minecraft:lodestone"
+        }
+    },
+    "result": {
+        "item": "munfymod:network_key",
+        "count": 1
+    }
+}

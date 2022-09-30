@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#MP",
+        "iFi",
+        "iUi"
+    ],
+    "key": {
+        "#": {
+            "item": "munfymod:security_key"
+        },
+        "M": {
+            "item": "munfymod:allow_key"
+        },
+        "P": {
+            "item": "munfymod:network_key"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "F": {
+            "item": "munfymod:chipset"
+        },
+        "U": {
+            "item": "munfymod:mainboard"
+        }
+    },
+    "result": {
+        "item": "munfumod:e_wallet",
+        "count": 1
+    }
+}

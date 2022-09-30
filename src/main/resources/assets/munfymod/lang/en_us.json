@@ -7,12 +7,14 @@
   "item.munfymod.l_baht": "50 Baht",
   "item.munfymod.c_baht": "100 Baht",
   "item.munfymod.e_wallet": "e-Wallet",
-
   "item.munfymod.munfy": "Munfy",
+
+  "item.munfymod.mainboard": "Mainboard",
+  "item.munfymod.security_key": "Security Key",
+  "item.munfymod.network_key": "Network key",
+  "item.munfymod.allow_key": "Allow Key",
+  "item.munfymod.chipset": "Chipset",
+
   "itemGroup.munfymod.money": "Money",
-  "itemGroup.munfymod.munfy": "Munfy",
-
-  "entity.minecraft.villager.moneymaster": "Foreign Exchange Officer",
-
-  "block.munfymod.router": "Router"
+  "itemGroup.munfymod.munfy": "Munfy"
 }

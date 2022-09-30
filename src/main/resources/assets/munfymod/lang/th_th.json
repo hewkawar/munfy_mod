@@ -12,7 +12,9 @@
   "itemGroup.munfymod.money": "เงิน",
   "itemGroup.munfymod.munfy": "Munfy",
 
-  "entity.minecraft.villager.moneymaster": "เจ้าหน้าที่แลกเปลี่ยนเงินตราต่างประเทศ",
-
-  "block.munfymod.router": "เราเตอร์"
+  "item.munfymod.mainboard": "เมนบอร์ด",
+  "item.munfymod.security_key": "รหัสความปลอดภัย",
+  "item.munfymod.network_key": "การเข้าถึง Network",
+  "item.munfymod.allow_key": "ใบอนุญาต",
+  "item.munfymod.chipset": "ชิปเซ็ต"
 }

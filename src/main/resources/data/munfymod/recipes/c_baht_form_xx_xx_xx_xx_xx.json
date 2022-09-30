@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "munfymod:xx_baht"
+        },
+        {
+            "item": "munfymod:xx_baht"
+        },
+        {
+            "item": "munfymod:xx_baht"
+        },
+        {
+            "item": "munfymod:xx_baht"
+        },
+        {
+            "item": "munfymod:xx_baht"
+        }
+    ],
+    "result": {
+        "item": "munfymod:c_baht",
+        "count": 1
+    }
+}
