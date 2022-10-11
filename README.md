@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Munfy Mod
 
-## Setup
+## Download Munfymod
+* Curseforge [page](https://www.curseforge.com/minecraft/mc-mods/munfymod)
+### Download form Github
+* [1.19.2](https://github.com/earthcooo/munfy_mod/raw/1.19/download/munfymod-1.0.0%2B1.19.2.jar)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+### Support
+* [Discord](https://discord.gg/PSZDa2fkzd)
