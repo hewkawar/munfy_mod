@@ -1,6 +1,6 @@
 # Munfy Mod
 
-## Download Munfymod
+### Download Munfymod
 * Curseforge [page](https://www.curseforge.com/minecraft/mc-mods/munfymod)
 
 ### Download form Github
